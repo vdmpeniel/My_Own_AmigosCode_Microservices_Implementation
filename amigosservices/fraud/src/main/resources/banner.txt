@@ -1,0 +1,18 @@
+
+  sSSs   .S_sSSs     .S_SSSs     .S       S.    .S_sSSs
+ d%%SP  .SS~YS%%b   .SS~SSSSS   .SS       SS.  .SS~YS%%b
+d%S'    S%S   `S%b  S%S   SSSS  S%S       S%S  S%S   `S%b
+S%S     S%S    S%S  S%S    S%S  S%S       S%S  S%S    S%S
+S&S     S%S    d*S  S%S SSSS%S  S&S       S&S  S%S    S&S
+S&S_Ss  S&S   .S*S  S&S  SSS%S  S&S       S&S  S&S    S&S
+S&S~SP  S&S_sdSSS   S&S    S&S  S&S       S&S  S&S    S&S
+S&S     S&S~YSY%b   S&S    S&S  S&S       S&S  S&S    S&S
+S*b     S*S   `S%b  S*S    S&S  S*b       d*S  S*S    d*S
+S*S     S*S    S%S  S*S    S*S  S*S.     .S*S  S*S   .S*S
+S*S     S*S    S&S  S*S    S*S   SSSbs_sdSSS   S*S_sdSSS
+S*S     S*S    SSS  SSS    S*S    YSSP~YSSY    SSS~YSSY
+SP      SP                 SP
+Y       Y                  Y
+
+${application.title} ${application.version}
+Powered by Spring Boot ${spring-boot.version}
