@@ -1,0 +1,17 @@
+  sSSs   .S       S.    .S_sSSs      sSSs   .S    S.    .S_SSSs            sSSs    sSSs   .S_sSSs     .S    S.     sSSs   .S_sSSs    
+ d%%SP  .SS       SS.  .SS~YS%%b    d%%SP  .SS    SS.  .SS~SSSSS          d%%SP   d%%SP  .SS~YS%%b   .SS    SS.   d%%SP  .SS~YS%%b   
+d%S'    S%S       S%S  S%S   `S%b  d%S'    S%S    S&S  S%S   SSSS        d%S'    d%S'    S%S   `S%b  S%S    S%S  d%S'    S%S   `S%b  
+S%S     S%S       S%S  S%S    S%S  S%S     S%S    d*S  S%S    S%S        S%|     S%S     S%S    S%S  S%S    S%S  S%S     S%S    S%S  
+S&S     S&S       S&S  S%S    d*S  S&S     S&S   .S*S  S%S SSSS%S        S&S     S&S     S%S    d*S  S&S    S%S  S&S     S%S    d*S  
+S&S_Ss  S&S       S&S  S&S   .S*S  S&S_Ss  S&S_sdSSS   S&S  SSS%S        Y&Ss    S&S_Ss  S&S   .S*S  S&S    S&S  S&S_Ss  S&S   .S*S  
+S&S~SP  S&S       S&S  S&S_sdSSS   S&S~SP  S&S~YSSY%b  S&S    S&S        `S&&S   S&S~SP  S&S_sdSSS   S&S    S&S  S&S~SP  S&S_sdSSS   
+S&S     S&S       S&S  S&S~YSY%b   S&S     S&S    `S%  S&S    S&S          `S*S  S&S     S&S~YSY%b   S&S    S&S  S&S     S&S~YSY%b   
+S*b     S*b       d*S  S*S   `S%b  S*b     S*S     S%  S*S    S&S           l*S  S*b     S*S   `S%b  S*b    S*S  S*b     S*S   `S%b  
+S*S.    S*S.     .S*S  S*S    S%S  S*S.    S*S     S&  S*S    S*S          .S*P  S*S.    S*S    S%S  S*S.   S*S  S*S.    S*S    S%S  
+ SSSbs   SSSbs_sdSSS   S*S    S&S   SSSbs  S*S     S&  S*S    S*S        sSS*S    SSSbs  S*S    S&S   SSSbs_S*S   SSSbs  S*S    S&S  
+  YSSP    YSSP~YSSY    S*S    SSS    YSSP  S*S     SS  SSS    S*S        YSS'      YSSP  S*S    SSS    YSSP~SSS    YSSP  S*S    SSS  
+                       SP                  SP                 SP                         SP                              SP          
+                       Y                   Y                  Y                          Y                               Y           
+                                                                                                                                     
+${application.title} ${application.version}
+Powered by Spring Boot ${spring-boot.version}
