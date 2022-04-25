@@ -1,4 +1,4 @@
-#trigger commit
+#trigger commit 1
 server:
   port: 8081
 spring:
